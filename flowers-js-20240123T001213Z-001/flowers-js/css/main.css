@@ -76,7 +76,6 @@ to {
   #lyrics {
       font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
       margin-bottom: 530px;
-      letter-spacing: 3px;
   }
 
 }
