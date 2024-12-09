@@ -19,7 +19,7 @@
   font-size: 1rem;
   color: #111;
 }
-titulo
+
 .botones{
   padding: 9px;
   border-radius: 80px;
@@ -1292,6 +1292,8 @@ to {
   filter: blur(0.3vmin);
   transform: scale(0.8) rotate(2deg);
 }
+
+container
 .long-g--7 {
   left: 35vmin;
   bottom: 20vmin;
@@ -1643,17 +1645,12 @@ body {
   padding: 20px;
 }
 
-h1 {
-  font-size: 2em;
-  line-height: 1.5;
-  margin-bottom: 20px;
-}
 
 /* Media Queries para tamaños de pantalla diferentes */
 @media screen and (max-width: 600px) {
   /* Estilos para pantallas pequeñas */
   h1 {
-      font-size: 1.5em;
+      font-size: 1em;
   }
 }
 
